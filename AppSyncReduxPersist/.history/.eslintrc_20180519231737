@@ -1,0 +1,14 @@
+{
+    "extends": ["airbnb", "plugin:react-native/all", "plugin:unicorn/recommended"],
+    "plugins": [
+        "react",
+        "react-native",
+        "unicorn"
+    ],
+    "ecmaFeatures": {
+        "jsx": true
+    },
+    "env": {
+        "react-native/react-native": true,
+    }
+}
